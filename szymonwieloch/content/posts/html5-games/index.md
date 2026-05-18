@@ -1,7 +1,8 @@
 +++
 date = '2026-05-18T19:17:52+02:00'
-draft = true
+draft = false
 title = 'Computer Games in HTML5'
+image = './featured.jpg'
 +++
 
 When HTML5 appeared on the programming scene, a new trend emerged – computer games running in a browser (and not using Flash). Maybe those games constitute the future of modern entertainment?…
