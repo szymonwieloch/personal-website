@@ -1,6 +1,5 @@
 +++
 date = '2026-05-18T19:25:09+02:00'
-draft = false
 title = 'Scrum – Agile Project Management'
 image = './featured.jpg'
 +++

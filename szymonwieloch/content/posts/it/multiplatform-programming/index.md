@@ -1,6 +1,5 @@
 +++
 date = '2026-05-18T17:57:38+02:00'
-draft = false
 title = 'Multiplatform Programming in C++'
 image = './featured.jpg'
 +++

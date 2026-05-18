@@ -1,6 +1,5 @@
 +++
 date = '2026-05-18T19:03:46+02:00'
-draft = false
 title = 'Object Oriented Approach to Asynchronous Operations'
 image = './featured.json'
 +++

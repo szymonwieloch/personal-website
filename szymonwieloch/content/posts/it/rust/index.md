@@ -1,6 +1,5 @@
 +++
 date = '2026-05-18T18:36:12+02:00'
-draft = false
 title = 'Rust – Modern Alternative to C++'
 image = './featured.jpg'
 +++

@@ -1,6 +1,5 @@
 +++
 date = '2026-05-18T20:42:01+02:00'
-draft = true
 title = 'The Phenomenon of Arising Informal Behaviors among Employees'
 image = './featured.jpg'
 +++

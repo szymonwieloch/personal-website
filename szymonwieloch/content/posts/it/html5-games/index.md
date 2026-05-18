@@ -1,6 +1,5 @@
 +++
 date = '2026-05-18T19:17:52+02:00'
-draft = false
 title = 'Computer Games in HTML5'
 image = './featured.jpg'
 +++

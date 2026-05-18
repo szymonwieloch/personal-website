@@ -1,6 +1,5 @@
 +++
 date = '2026-05-18T20:41:19+02:00'
-draft = false
 title = 'Simple Investment Strategy During a Global Crisis'
 image = './featured.jpg'
 +++

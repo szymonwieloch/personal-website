@@ -1,6 +1,5 @@
 +++
 date = '2026-05-18T19:25:34+02:00'
-draft = false
 title = 'What Programming Language Should You Choose?'
 image = './featured.jpg'
 +++
