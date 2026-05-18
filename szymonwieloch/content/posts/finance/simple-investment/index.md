@@ -5,54 +5,63 @@ title = 'Simple Investment Strategy During a Global Crisis'
 image = './featured.jpg'
 +++
 
-
-This article describes a simple investment strategy designed for people who do not have much experience in investments, but would like to optimize their gain to risk ratio and prevent high loses during any potential global crisis (2012).
+This article describes a simple investment strategy designed for people who do not have much experience with investing but would like to optimize their gain-to-risk ratio and prevent high losses during potential global crises (as observed around 2012).
 
 ## Introduction
 
-The purpose of this article is to create a simple but effective investment strategy using tools like diversification and heading. The strategy is supposed to be used by inexperienced investors with limited knowledge about financial markets. The profile of an investor is a n average risk taker . Part of the money should be invested in stocks, the other part in bonds.
+The purpose of this article is to create a simple but effective investment strategy using tools such as diversification and hedging. The strategy is intended for inexperienced investors with limited knowledge of financial markets. The profile of the investor is that of an average risk taker. Part of the money should be invested in stocks, while the other part should be invested in bonds.
 
-The currency used to evaluate the strategy will be Polish zloty. One of the features of human economic behavior is that the person’s utility function tends not to be linear. Because of its shape a loss of 70% is perceived in a different way than an equal gain. A big loss is felt stronger than a big gain. Good strategy should rather maximize utility than gain and therefore this work will concentrate on preventing the investors nightmare – a global crisis causing multiple assets to lose their value. The strategy will be tested with economic data from the last 5 years. In this period there were two economic crises occurring one after another.
+The currency used to evaluate the strategy will be the Polish zloty. One of the characteristics of human economic behavior is that a person’s utility function tends not to be linear. Because of its shape, a loss of 70% is perceived differently than an equivalent gain. A large loss is felt more strongly than a large gain. A good strategy should therefore maximize utility rather than gain alone, and for this reason this work concentrates on preventing an investor’s nightmare — a global crisis causing multiple assets to lose their value. The strategy will be tested using economic data from the previous five years. During this period, two economic crises occurred one after another.
 
 ![Utility function](./utility.jpg)
 
 Typical utility function.
 
-## Should we trust specialists?
+## Should We Trust Specialists?
 
-We will start to create the strategy by asking a very simple question: shouldn’t we pass our money to some specialist in finances instead of investing it ourselves? At first it seems to be a crazy idea to try to compete on the market with banks and funds that spend billions dollars a year on market analysis.Isn’t it better to actually trust some fund and leave the main decisions to them? Our intuition tells us that it should be a better idea than using our own limited skills to find and buy good stocks. However the practice shows something very different. Stockwatch.pl portal has analyzed all stock funds and has found that majority of them (more than70%) had worse results than the WIG index. Also, the risk analysis showed that the Sharp factor calculated for all funds was usually below what the marked had to offer.
+We will begin building the strategy by asking a very simple question: shouldn’t we pass our money to financial specialists instead of investing it ourselves? At first, it seems crazy to try to compete on the market with banks and funds that spend billions of dollars each year on market analysis. Isn’t it better to trust a fund and leave the main decisions to professionals? Our intuition suggests that this should be a better idea than using our own limited skills to find and buy good stocks.
 
-| Stock fund                | Sharp factor  | Average gain per year in %    |
-| ------------------------- | ------------- | ----------------------------- |
-| Arka BZWK Akcji           | 0,20          | 11,49                         |
-| Legg Mason Akcji          | 0,20          | 11,14                         |
-| UniKorona Akcje           | 0,17          | 10,84                         |
-| Skarbiec Akcja            | 0,14          | 10,09                         |
-| BPH Akcji                 | 0,11          | 9,48                          |
-| ING Akcji                 | 0,02          | 7,72                          |
-| PZU Akcji Krakowiak       | 0,00          | 7,42                          |
-| Novo Akcji                | \-0,02        | 6,90                          |
-| PKO Akcji                 | \-0,11        | 5,24                          |
-| DWS Akcji D.S             | \-0,11        | 5,11                          |
-| Pioneer Akcji Polskich    | \-0,10        | 5,09                          |
-| **Average**               | **0,05**      | **8,23**                      |
-| **WIG index**             | **0,13**      | **10,36**                     |
+However, practice shows something very different. The Stockwatch.pl portal analyzed stock funds and found that the majority of them (more than 70%) achieved worse results than the WIG index. Furthermore, the risk analysis showed that the Sharpe ratio calculated for most funds was usually below what the market itself had to offer.
+
+| Stock fund             | Sharpe ratio | Average annual gain (%) |
+| ---------------------- | ------------ | ----------------------- |
+| Arka BZWK Akcji        | 0.20         | 11.49                   |
+| Legg Mason Akcji       | 0.20         | 11.14                   |
+| UniKorona Akcje        | 0.17         | 10.84                   |
+| Skarbiec Akcja         | 0.14         | 10.09                   |
+| BPH Akcji              | 0.11         | 9.48                    |
+| ING Akcji              | 0.02         | 7.72                    |
+| PZU Akcji Krakowiak    | 0.00         | 7.42                    |
+| Novo Akcji             | -0.02        | 6.90                    |
+| PKO Akcji              | -0.11        | 5.24                    |
+| DWS Akcji D.S          | -0.11        | 5.11                    |
+| Pioneer Akcji Polskich | -0.10        | 5.09                    |
+| **Average**            | **0.05**     | **8.23**                |
+| **WIG index**          | **0.13**     | **10.36**               |
 
 Selected Polish stock funds, data from the last 10 years.
 
-These counter-intuitive results can be explained with the use of the efficient market hypothesis. There are many different stocks available for buying on the market. Some of them are better than others, but because of many players trying to find a good opportunity to buy a cheap stock, the real difference in attractiveness between best and worse is not significant. Even good professionals, who try to find best stocks, cannot have very high gains compared to the market. At the same time each stock fund has many internal costs; it needs to pay for marketing, buildings used by employees and for their work. The fund pays for it with the money from margins. An average margin in Poland is around 4% a year and is twice as high as in USA. It comes out that the average gain from help of a specialist is lower than the cost of this help. A very similar phenomenon has been observed in USA and has given rise to index funds. A better strategy than investment in a stock fund is direct investment in the market. You simply should buy stock by yourself even if this means choosing random companies.
+These counterintuitive results can be explained using the efficient market hypothesis. There are many different stocks available on the market. Some are better than others, but because many investors are constantly searching for undervalued stocks, the real difference in attractiveness between the best and worst stocks is usually not significant. Even skilled professionals who try to identify the best stocks cannot consistently achieve returns far above the market average.
 
-Direct investment provides a very good expected gain. Unfortunately buying a single stock provides a very high standard deviation that results in a high risk (very low value of Sharp factor). To eliminate a risk specific to a single company it is necessary to buy a large number of different stocks. It is estimated that an effective diversification requires buying around 30 – 40 different stocks. It is also worth mentioning that a good diversification requires analysis of interdependencies between stocks. For example Lotos and Orlen companies depend mainly on the price of oil; prices of these companies are strongly correlated. The best solution is to create a portfolio of companies that workin different areas of economy.
+At the same time, each stock fund has many internal costs. It must pay for marketing, office buildings, and employee salaries. The fund covers these expenses using management fees. In Poland, the average fee is around 4% per year and is approximately twice as high as in the United States. As a result, the average gain obtained with the help of a specialist is often lower than the cost of that assistance.
 
-## How to prevent loses during a global crisis?
+A very similar phenomenon has been observed in the United States and has contributed to the popularity of index funds. A better strategy than investing in a stock fund may therefore be direct investment in the market. One can simply buy stocks independently, even if this means choosing companies more or less at random.
 
-The nightmare of an investor is a global crisis that can cause 50-80% loss in a short period of time. Recently there have been two such crises: the first was related to the bankruptcy of Lehman Brothers Bank in the year 2008, the second to the financial problems of Greece around 2011. Unfortunately WIG index tends to drop dramatically during such periods resulting in high volatility of stocks and high loses. A way to prevent such loses is to use a heading strategy. Invest part of the money in Polish stocks and a part in an asset that is negatively correlated with WIG index. There are many assets behaving in this way. A classic example is gold, because its price always grows during a crisis. But – since the strategy assumes partial investment in
+Direct investment provides attractive expected returns. Unfortunately, buying a single stock also involves a very high standard deviation, resulting in high risk (and therefore a low Sharpe ratio). To eliminate the risk specific to a single company, it is necessary to buy a large number of different stocks. It is estimated that effective diversification requires purchasing around 30–40 different stocks.
 
-bonds – the best assets meeting our criteria are the government bonds of countries that have a strong currency.
+It is also worth mentioning that good diversification requires an analysis of interdependencies between stocks. For example, Lotos and Orlen are both strongly dependent on oil prices, so their stock prices are highly correlated. The best solution is to create a portfolio of companies operating in different sectors of the economy.
 
-From Polish investor’s perspective the best currencies for investments are US dollar, euro, Swiss franc and pound sterling. Dollar and euro are the main two foreign currencies used in trading and franc and pound are local currencies (so any local crisis influencing WIG index should also influence currency exchange rate). For the sake of simplicity this document will concentrate on dollar and euro.
+## How to Prevent Losses During a Global Crisis?
 
-The following charts show that there is at least some correlation between WIG index and currency exchange ratio.
+The nightmare of an investor is a global crisis that can cause losses of 50–80% within a short period of time. Recently, there were two such crises: the first was related to the bankruptcy of Lehman Brothers in 2008, and the second to the financial problems of Greece around 2011.
+
+Unfortunately, the WIG index tends to decline dramatically during such periods, resulting in high volatility and substantial losses. One way to reduce such losses is to use a hedging strategy. Part of the money should be invested in Polish stocks, while another part should be invested in assets negatively correlated with the WIG index.
+
+There are many assets that behave in this way. A classic example is gold, because its price often rises during crises. However, since this strategy assumes partial investment in bonds, the best assets meeting our criteria are government bonds issued by countries with strong currencies.
+
+From the perspective of a Polish investor, the best currencies for investment are the US dollar, euro, Swiss franc, and pound sterling. The dollar and euro are the two main international trading currencies, while the franc and pound are considered relatively stable local currencies. Therefore, any local crisis affecting the WIG index may also influence exchange rates. For the sake of simplicity, this document will focus on the dollar and euro.
+
+The following charts show that there is at least some correlation between the WIG index and currency exchange rates.
 
 ![](./1.jpg)
 
@@ -60,35 +69,43 @@ The following charts show that there is at least some correlation between WIG in
 
 ![](./3.jpg)
 
-## Building the strategy
+## Building the Strategy
 
-We already know the skeleton of the strategy. It is based on investment in stocks of many random Polish companies and hedged with investment in foreign government bonds (US dollar and euro). What we do not know are the proportions of different types of investment. How much should we invest in US or European bonds and how much in Polish stock? The answer can be based only on past behavior of currency exchange and WIG index. By analyzing data from the last 5 years we can calculate the proportions that should reduce the risk. Since the main purpose of the strategy is the reduction of risk during crises, annual standard deviation of gain was used as a metric of risk for different combinations of proportions. Calculations are attached to this document in a form of a spreadsheet.
+We already know the basic structure of the strategy. It is based on investment in stocks of many Polish companies combined with investments in foreign government bonds denominated in US dollars and euros. What remains unclear are the proportions of these investments. How much should be invested in US or European bonds, and how much in Polish stocks?
 
-Assumptions of the calculations:
+The answer can only be based on past behavior of exchange rates and the WIG index. By analyzing data from the previous five years, we can calculate the proportions that minimize risk. Since the primary purpose of the strategy is to reduce risk during crises, the annual standard deviation of returns was used as the risk metric for different combinations of investments. The calculations are attached to this document in the form of a spreadsheet.
 
--   Value of the portion of money invested in Polish stocks changes in the same way as WIG index.
--   Value of the portion of money invested in foreign government bonds changes because of changing exchange rate and because of bond interest rates – 3% (US bonds) or 4% (average European country).
--   The metric of the strategy is standard deviation of the portfolio.
--   The lower the standard deviation, the safer the investment is.
--   High gain is not expected during a crisis.
--   The cost of exchanging money is negligible.
--   The values of WIG index and exchange rates were checked once a month (calculations could be improved by checking values once a day or even every day , but for the sake of simplicity one month is assumed).
--   No debt (leverage) is allowed.
+### Assumptions of the calculations
 
-It is possible to find the proportions via numeric analysis. Because no popular application allows changing two variables at the same time, the solution can be found manually by modifying percentage of investment in euro until the smallest standard deviation is found. Later the percentage of investment in dollars should be changed in a similar way to find the minimal standard deviation. By repeating this process until any change in proportion results in a higher metric it is possible to find the optimal solution.
+* The value of the portion invested in Polish stocks changes in the same way as the WIG index.
+* The value of the portion invested in foreign government bonds changes because of exchange-rate fluctuations and bond interest rates — 3% for US bonds and 4% for average European bonds.
+* The metric used to evaluate the strategy is the standard deviation of the portfolio.
+* The lower the standard deviation, the safer the investment.
+* High returns are not expected during a crisis.
+* The cost of exchanging currencies is negligible.
+* The values of the WIG index and exchange rates were checked once a month. (The calculations could be improved by checking values daily, but for the sake of simplicity monthly observations were used.)
+* No debt (leverage) is allowed.
 
-## Final strategy
+It is possible to determine the proportions through numerical analysis. Because most common applications do not allow simultaneous optimization of two variables, the solution can be found manually by modifying the percentage invested in euros until the smallest standard deviation is identified. Later, the percentage invested in dollars can be adjusted in a similar way. By repeating this process until any further change increases the risk metric, it is possible to find the optimal solution.
 
-Simulation has shown that the best proportions of investment are 28% (Polish stocks), 72% (European bonds) and 0% (American bonds). The last value is very interesting. Values below 0% were not checked because of the strategy assumptions (lack of debt), but probably from an investor’s perspective it could be profitable to have a debt in dollars and invest more money in euro and Polish stock. Unfortunately these proportions are based on past data and there is no guarantee that they will be best during next crises.
+## Final Strategy
+
+The simulation showed that the best investment proportions were 28% Polish stocks, 72% European bonds, and 0% American bonds. The last value is particularly interesting. Negative values were not tested because the strategy assumes no leverage, but it might theoretically be profitable to borrow dollars and invest more money in euros and Polish stocks.
+
+Unfortunately, these proportions are based on historical data, and there is no guarantee that they will remain optimal during future crises.
 
 ![Proportions](./proportions.png)
 
-Best proportions of investment.
+Best investment proportions.
 
-It seems that Euro is a better currency for hedging than the US dollar. During the crisis investment had an attractive gain – 3,53% a year. Compared with 4% interest rate in euro and with an assumption that this gain was measured during two crises this value is really good. At the same time, the investment had also quite an attractive standard deviation – only 8,99% in the worst. The value is small compared to the changes in WIG index that lost at some point 67% of its value. What is also interesting is the expected gain outside of the period of crisis. Assuming than the exchange rates won’t change, it should be calculated in the following way:
+It appears that the euro is a better hedging currency than the US dollar. During the crisis period, the investment achieved an attractive return of 3.53% per year. Considering the 4% interest rate on euro-denominated bonds and the fact that this return was measured during two crises, the result is quite impressive.
 
-EG = 28% \* 10,36% + 0% \* 3% + 72% \* 4%= 5,79%
+At the same time, the investment also had an attractive standard deviation — only 8.99% at its worst. This value is small compared to the WIG index, which at one point lost 67% of its value.
 
-The last chart shows how three types of investment combined together eliminate some portion of the volatility.
+It is also interesting to estimate the expected return outside periods of crisis. Assuming that exchange rates remain unchanged, the expected gain can be calculated as follows:
+
+EG = 28% \cdot 10.36% + 0% \cdot 3% + 72% \cdot 4% = 5.79%
+
+The final chart shows how combining three different types of investments reduces overall portfolio volatility.
 
 ![](./all.png)
