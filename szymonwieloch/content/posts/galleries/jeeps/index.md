@@ -1,0 +1,7 @@
++++
+date = '2026-05-18T23:27:17+02:00'
+draft = true
+title = 'Jeep Trip to Uyuni'
+external_url = 'https://photos.app.goo.gl/beuwibHJvFVbcdRj8'
+image = './featured.jpg'
++++
