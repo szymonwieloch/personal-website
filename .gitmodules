@@ -1,0 +1,3 @@
+[submodule "szymonwieloch/themes/congo"]
+	path = szymonwieloch/themes/congo
+	url = https://github.com/szymonwieloch/congo.git
