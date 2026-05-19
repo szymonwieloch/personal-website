@@ -1,5 +1,19 @@
++++
++++
 
-`PAGE UNDER CONSTRUCTION !!!`
+<br/>
+<br/>
+
+{{< alert >}}
+**Warning!** Page under construction!
+It may still not work properly!
+{{< /alert >}}
+
+
+
+
+<br/>
+<br/>
 
 # Welcome!
 
@@ -8,6 +22,11 @@ My name is Szymon. I am a software programmer and this is my personal website. I
 Szymon Wieloch
 
 ![My signature](./signature.png)
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 # Hire Me as a Programmer
 
@@ -29,6 +48,11 @@ Resume
 More
 {{< /button >}}
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 # Read My Articles
 ![](./reader.avif)
 
@@ -41,6 +65,11 @@ IT
 {{< button href="/categories/finance" target="_self" >}}
 Finance
 {{< /button >}}
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 # Get to Know Me
 
