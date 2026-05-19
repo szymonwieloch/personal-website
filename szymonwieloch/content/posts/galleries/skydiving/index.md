@@ -5,3 +5,7 @@ externalUrl = 'https://goo.gl/photos/jMFMpL7DiEXW47RB8'
 image = './featured.jpg'
 categories = ["Gallery"]
 +++
+
+Pictures from my parachute jump from 13 000 feet.
+
+<!--more-->

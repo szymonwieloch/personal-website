@@ -5,3 +5,6 @@ externalUrl = 'https://goo.gl/photos/Nd9TygwHzAnaRzUu9'
 image = './featured.jpg'
 categories = ["Gallery"]
 +++
+
+A collection of pictures from my interpersonal training.
+<!--more-->

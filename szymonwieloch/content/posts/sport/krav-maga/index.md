@@ -6,6 +6,8 @@ categories = ["Sport"]
 
 In 2018, after more than seven years of training, I finally passed the black belt exam and became one of the few Krav Maga instructors in Poland.
 
+<!--more-->
+
 Krav Maga is a military self-defense and fighting system developed for the Israel Defense Forces (IDF) and Israeli security agencies (Shin Bet and Mossad). It combines techniques sourced from boxing, wrestling, aikido, judo, karate, and several other martial arts. Krav Maga is known for its focus on real-world situations and extreme efficiency.
 
 The system originated from the street-fighting experience of Hungarian-Israeli martial artist Imi Lichtenfeld, who used his training as a boxer and wrestler to defend the Jewish quarter against fascist groups in Bratislava, Czechoslovakia, during the mid-to-late 1930s. In the late 1940s, after emigrating to Israel, he began teaching combat training to what later became the IDF.

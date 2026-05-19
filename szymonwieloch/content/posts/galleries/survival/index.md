@@ -5,3 +5,7 @@ externalUrl = 'https://goo.gl/photos/znWAY9DWUbRs66Hu9'
 image = './featured.jpg'
 categories = ["Gallery"]
 +++
+
+Pictures showing a weekend training in surviving in a harsh environment.
+
+<!--more-->

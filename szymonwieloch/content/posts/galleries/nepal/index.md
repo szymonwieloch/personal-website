@@ -5,3 +5,6 @@ externalUrl = 'https://goo.gl/photos/VgJP93BpkNYAX5kU9'
 image = './featured.jpg'
 categories = ["Gallery"]
 +++
+
+Pictures taken in Nepal – a country in Asia. Mainly in the Chituan National Park.
+<!--more-->

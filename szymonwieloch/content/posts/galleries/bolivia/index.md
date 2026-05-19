@@ -5,3 +5,5 @@ externalUrl = 'https://photos.app.goo.gl/wKSUTLkG1sY34o1o6'
 image = './featured.jpg'
 categories = ["Gallery"]
 +++
+Local culture and shamanic rituals in Bolivia.
+<!--more-->

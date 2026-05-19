@@ -6,6 +6,8 @@ categories = ["Sport"]
 
 A parachute jump had always been one of my dreams. I was curious what it’s like to fall at high speed. It took me several years to find a good opportunity (and gather enough courage). But finally, I decided to do a so-called tandem jump, with an instructor attached to my back.
 
+<!--more-->
+
 <iframe src="https://player.vimeo.com/video/257260512" width="640" height="564" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 So, what’s it like to do a parachute jump? Contrary to common belief, you don’t need to be in great shape, have perfect health, or complete long courses. You also don’t need permission from your physician. Parachute jumps are relatively safe, and an average person can decide to do one without any previous preparation. You only need courage and some money (in Poland, around 200 USD).

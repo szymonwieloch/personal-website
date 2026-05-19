@@ -4,3 +4,7 @@ title = 'My Open Source Projects'
 externalUrl = 'https://github.com/szymonwieloch'
 categories = ["Job"]
 +++
+
+My Open Source Projects hosted on GitHub.
+
+<!--more-->

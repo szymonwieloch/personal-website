@@ -7,6 +7,8 @@ categories = ["Sport"]
 
 Long-distance running has been my passion for several years. I estimate that during this time I have run around 1,250 miles and completed two marathons.
 
+<!--more-->
+
 During my studies, I started running with my friend as a way to keep my body in shape. Back then, I only had a cheap pair of trainers and was able to run one mile at most. What started as an enjoyable way of spending time together and maintaining our friendship quickly turned into a much more extreme version of the sport.
 
 I started running regularly once a week, and the distance constantly increased. I had to replace my cheap sneakers with semi-professional running shoes to get better cushioning and improve my performance. Time quickly passed, and running a half marathon once a week became the norm. That was when I decided to run a full marathon. It took more time and effort than I had expected, mainly because I chose not to use any professional guidance. Instead, I simply kept increasing the distance I ran each week.

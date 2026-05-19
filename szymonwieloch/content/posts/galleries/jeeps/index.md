@@ -5,3 +5,6 @@ externalUrl = 'https://photos.app.goo.gl/beuwibHJvFVbcdRj8'
 image = './featured.jpg'
 categories = ["Gallery"]
 +++
+
+3 days long jeep trip to Uyuni, a fameous island made of salt.
+<!--more-->

@@ -6,3 +6,5 @@ categories = ["Sport"]
 +++
 
 Certificates that I received after exams or during trainings in a variety of martial arts courses. Mainly Krav Maga.
+
+<!--more-->
