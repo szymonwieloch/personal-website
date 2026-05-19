@@ -4,7 +4,9 @@
 
 # theme is set in root hugo.toml
 
-# baseURL = "https://your_domain.com/"
+theme = "congo"
+
+# baseURL = "https://szymonwieloch.com/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
