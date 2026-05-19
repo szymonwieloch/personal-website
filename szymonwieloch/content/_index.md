@@ -1,3 +1,6 @@
+
+`PAGE UNDER CONSTRUCTION !!!`
+
 # Welcome!
 
 My name is Szymon. I am a software programmer and this is my personal website. I created it to simplify contact with potential employers and as a way to tell people who I am and what I can do for them. You’ll find here many of my articles, galleries with pictures about some of my travels, samples of my programming work and job-related information. Unfortunately I was able to translate into English only the most important elements. If you speak Polish (which is my native language), you may want to switch into it to get more content. I wish you a pleasant reading.

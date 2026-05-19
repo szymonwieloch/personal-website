@@ -2,6 +2,7 @@
 date = '2026-05-18T18:12:12+02:00'
 title = 'Discovering Network Topologies'
 image = './featured.jpg'
+categories = ["IT"]
 +++
 
 When you work as a network administrator, there are few more useful tools than an application that discovers your network topology and is capable of drawing it to you and providing all the information about the network. Let's look at several ways to find devices in our network and build connections between them.

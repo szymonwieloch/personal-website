@@ -2,6 +2,7 @@
 date = '2026-05-18T19:25:09+02:00'
 title = 'Scrum – Agile Project Management'
 image = './featured.jpg'
+categories = ["IT"]
 +++
 
 More and more programmers are becoming interested in so-called agile project management methodologies. And there is a good reason for that — research done in the USA showed that projects using this approach get better ROI.

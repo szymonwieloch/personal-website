@@ -2,6 +2,7 @@
 date = '2026-05-18T19:11:34+02:00'
 title = 'Synchronous vs Asynchronous IO Operations'
 image = './featured.json'
+categories = ["IT"]
 +++
 
 

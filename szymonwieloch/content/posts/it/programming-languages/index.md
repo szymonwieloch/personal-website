@@ -2,6 +2,7 @@
 date = '2026-05-18T19:25:34+02:00'
 title = 'What Programming Language Should You Choose?'
 image = './featured.jpg'
+categories = ["IT"]
 +++
 
 Modern IT world has created hundreds of programming languages. Each of them has its own pros and cons. If you have a job to do – what language should you choose?

@@ -11,19 +11,48 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 10
+    name = "Home"
+    url = "/"
+    weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
+    name = "Job"
+    url = "/categories/job"
+    weight = 20
 
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+    [[main]]
+        name = "IT"
+        url = "/categories/it/"
+        # parent='articles'
+        weight = 30
+
+    [[main]]
+        name = "Finance"
+        url = "/categories/finance/"
+        # parent='articles'
+        weight = 40
+
+    [[main]]
+        name = "Sport"
+        url = "/categories/sport/"
+        # parent='articles'
+        weight = 50
+
+    [[main]]
+        name = "Galleries"
+        url = "/categories/gallery/"
+        # parent='articles'
+        weight = 60
+
+# [[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+
+# [[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
 
 [[main]]
   identifier = "search"

@@ -1,6 +1,7 @@
 +++
 date = '2026-05-18T21:55:27+02:00'
 title = 'Krav Maga'
+categories = ["Sport"]
 +++
 
 In 2018, after more than seven years of training, I finally passed the black belt exam and became one of the few Krav Maga instructors in Poland.

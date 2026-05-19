@@ -2,6 +2,7 @@
 date = '2026-05-18T18:36:12+02:00'
 title = 'Rust – Modern Alternative to C++'
 image = './featured.jpg'
+categories = ["IT"]
 +++
 
 For many years the C++ language was the only reasonable option for writing real-time or embedded software. But during recent years a new technology has emerged — a technology that has the potential to take the crown of low-level programming in several years. It's called Rust.

@@ -1,6 +1,7 @@
 +++
 date = '2026-05-18T21:55:09+02:00'
 title = 'Skydiving'
+categories = ["Sport"]
 +++
 
 A parachute jump had always been one of my dreams. I was curious what it’s like to fall at high speed. It took me several years to find a good opportunity (and gather enough courage). But finally, I decided to do a so-called tandem jump, with an instructor attached to my back.

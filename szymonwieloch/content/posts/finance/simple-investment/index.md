@@ -2,6 +2,7 @@
 date = '2026-05-18T20:41:19+02:00'
 title = 'Simple Investment Strategy During a Global Crisis'
 image = './featured.jpg'
+categories = ["Finance"]
 +++
 
 This article describes a simple investment strategy designed for people who do not have much experience with investing but would like to optimize their gain-to-risk ratio and prevent high losses during potential global crises (as observed around 2012).

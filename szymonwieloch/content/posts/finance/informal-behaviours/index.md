@@ -1,6 +1,7 @@
 +++
 date = '2026-05-18T20:42:01+02:00'
 title = 'The Phenomenon of Arising Informal Behaviors among Employees'
+categories = ["Finance"]
 image = './featured.jpg'
 +++
 
