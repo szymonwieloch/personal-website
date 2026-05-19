@@ -8,21 +8,23 @@ weight = 90
 +++
 
 ## Direct contact
-| | |
-| ---- | -----|
-| Email | {{< safe-email "moc.niatod@emanruoy" >}} |
-| Phone |	[+48 694 169 087](tel:+48694169087) |
 
 
-Email: {{< safe-email "moc.niatod@emanruoy" >}}  
-Phone: [+48 694 169 087](tel:+48694169087) 
+
+{{< icon "email" >}}  {{< safe-email "vcbprq.zlohrfk@jpdlo.frp" >}}
+
+{{< icon "phone" >}} [+48 694 169 087](tel:+48694169087) 
 
 ## Social media
 
-          
+ {{< icon "github" >}} [GitHub](https://github.com/szymonwieloch)
+
+ {{< icon "linkedin" >}} [LinkedIn](https://www.linkedin.com/in/szymon-wieloch-3785077a)     
+
+ {{< icon "facebook" >}} [Facebook](https://www.facebook.com/szymon.wieloch)         
 
           
-### My company
+## My company
 
 Szymon Wieloch Consulting  
 Opolska Street 27/171  

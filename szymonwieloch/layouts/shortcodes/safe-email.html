@@ -1,18 +1,23 @@
 {{/*
-  Usage: {{< safe-email "moc.niatod@emanruoy" >}}
-  Pass the email COMPLETELY REVERSED into the shortcode.
+  Usage: {{< safe-email "mrkq.grh@hadpsoh.frp" >}}
+  Pass the email ENCODED with Caesar cipher (ROT3): each letter shifted forward by 3.
+  Non-letter characters (@, ., etc.) are left unchanged.
+  Example: "john.doe@example.com" → "mrkq.grh@hadpsoh.frp"
 */}}
 
-{{ $reversed := .Get 0 }}
+{{ $encoded := .Get 0 }}
 
 <span class="email-container">
   <a href="#"
-     data-rev="{{ $reversed }}"
-     onclick="const r = this.getAttribute('data-rev'); const d = r.split('').reverse().join(''); window.location.href = 'mailto:' + d; return false;">
+     data-enc="{{ $encoded }}"
+     onclick="const e=this.getAttribute('data-enc');const d=e.replace(/[a-zA-Z]/g,c=>{const b=c>='a'?97:65;return String.fromCharCode((c.charCodeAt(0)-b+23)%26+b)});window.location.href='mailto:'+d;return false;">
     <script>
-      // This displays the un-reversed email on the page text for humans
-      const rStr = "{{ $reversed }}";
-      document.write(rStr.split('').reverse().join(''));
+      // Decode Caesar cipher (ROT-3): shift each letter backward by 3
+      var enc = "{{ $encoded }}";
+      document.write(enc.replace(/[a-zA-Z]/g, function(c) {
+        var base = c >= 'a' ? 97 : 65;
+        return String.fromCharCode((c.charCodeAt(0) - base + 23) % 26 + base);
+      }));
     </script>
   </a>
 </span>
