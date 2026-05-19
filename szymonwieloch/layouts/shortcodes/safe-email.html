@@ -1,0 +1,18 @@
+{{/*
+  Usage: {{< safe-email "moc.niatod@emanruoy" >}}
+  Pass the email COMPLETELY REVERSED into the shortcode.
+*/}}
+
+{{ $reversed := .Get 0 }}
+
+<span class="email-container">
+  <a href="#"
+     data-rev="{{ $reversed }}"
+     onclick="const r = this.getAttribute('data-rev'); const d = r.split('').reverse().join(''); window.location.href = 'mailto:' + d; return false;">
+    <script>
+      // This displays the un-reversed email on the page text for humans
+      const rStr = "{{ $reversed }}";
+      document.write(rStr.split('').reverse().join(''));
+    </script>
+  </a>
+</span>

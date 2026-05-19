@@ -1,0 +1,15 @@
+/* Increase the default font size */
+html {
+  font-size: 13pt;
+}
+
+/* Profile picture size - between original w-36 (9rem) and w-52 (13rem) */
+.profile-picture {
+  width: 11.25rem !important;
+}
+
+/* Make article thumbnail images square */
+article img.w-24 {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
