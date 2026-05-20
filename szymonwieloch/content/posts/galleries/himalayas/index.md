@@ -8,6 +8,6 @@ categories = ["Gallery"]
 
 
 
-Pictures come from a 2 day long trip to the top of Panchase  mountain in the Himalayas.
+Pictures come from a 2-day-long trip to the top of Panchase mountain in the Himalayas.
 
 <!--more-->

@@ -6,5 +6,5 @@ image = './featured.jpg'
 categories = ["Gallery"]
 +++
 
-Pictures taken in Nepal – a country in Asia. Mainly in the Chituan National Park.
+Pictures taken in Nepal – a country in Asia. Mainly in the Chitwan National Park.
 <!--more-->

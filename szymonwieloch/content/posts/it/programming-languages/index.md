@@ -7,6 +7,8 @@ categories = ["IT"]
 
 Modern IT world has created hundreds of programming languages. Each of them has its own pros and cons. If you have a job to do – what language should you choose?
 
+<!--more-->
+
 The short answer to this question is: it depends, because depending on the kind of functionality that you need, a different language may be optimal. In this article I’ll try to describe the most popular kinds of languages, their advantages and disadvantages as well as the kinds of applications that you should use them for.
 
 ## High or low level?

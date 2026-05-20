@@ -4,3 +4,7 @@ title = 'Resume'
 categories = ["Job"]
 externalUrl = '/posts/job/resume/SzymonWielochCV2026.pdf'
 +++
+
+My up-to-date resume in the PDF format.
+
+<!--more-->

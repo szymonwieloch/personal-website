@@ -7,6 +7,8 @@ image = './featured.jpg'
 
 As a contractor, I've worked for many companies (contracts are typically short) and taken part in numerous projects. The following is a short summary of those companies and the most important and interesting projects I participated in.
 
+<!--more-->
+
 ## Kraken ([kraken.com](https://kraken.com))
 
 {{< figure src="./kraken.png" alt="Kraken logo" class="block me-auto ms-0" >}}

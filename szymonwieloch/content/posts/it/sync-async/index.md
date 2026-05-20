@@ -5,6 +5,10 @@ image = './featured.json'
 categories = ["IT"]
 +++
 
+Exploring how over-simplified abstractions can decimate software performance, this article contrasts the high resource overhead of thread-heavy synchronous I/O with the efficiency and architectural challenges of managing multiple data streams within a single asynchronous thread.
+
+<!--more-->
+
 
 Due to a growing complexity of software systems, there is a natural tendency towards simpler methods that achieve similar (although not identical) results. Examples include Java or C# language. This process highly relies on removing the need for understanding complex operations that take place inside your operating system kernel. A programmer is only supposed to combine prebuilt components into his application. These "idiot-friendly" solutions often lead to dramatic decrease in your application performance.
 

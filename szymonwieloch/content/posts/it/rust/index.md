@@ -7,6 +7,8 @@ categories = ["IT"]
 
 For many years the C++ language was the only reasonable option for writing real-time or embedded software. But during recent years a new technology has emerged — a technology that has the potential to take the crown of low-level programming in several years. It's called Rust.
 
+<!--more-->
+
 ### Why not Java, Python, Go or D?
 
 There are many alternative languages to C++. Somebody could wonder – what’s the point of creating a new one? Why don’t you simply use Java, C#, Go, Python or any of the currently popular languages? It turns out that for many use cases those languages are solid substitutes. Actually they can be much better than C++ (have you ever seen any website written in C++?). But there are cases where C++ did not have any real alternatives. Let’s look at them:

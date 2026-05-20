@@ -6,6 +6,7 @@ categories = ["IT"]
 +++
 
 When HTML5 appeared on the programming scene, a new trend emerged – computer games running in a browser (and not using Flash). Maybe those games constitute the future of modern entertainment?…
+<!--more-->
 
 Most computer games created in HTML5 are two-dimensional and use a new HTML element introduced in the fifth version: the canvas. Canvas is almost like a Paint application running in your browser, and your JavaScript code can freely draw on it. It’s enough to draw 25 frames per second to achieve the illusion of smooth movement.
 

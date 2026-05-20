@@ -6,6 +6,6 @@ image = './featured.jpg'
 categories = ["Gallery"]
 +++
 
-Pictures showing a weekend training in surviving in a harsh environment.
+Pictures showing a weekend survival training in a harsh environment.
 
 <!--more-->

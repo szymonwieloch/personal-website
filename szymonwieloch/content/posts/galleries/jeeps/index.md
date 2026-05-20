@@ -6,5 +6,5 @@ image = './featured.jpg'
 categories = ["Gallery"]
 +++
 
-3 days long jeep trip to Uyuni, a fameous island made of salt.
+A 3-day-long jeep trip to Uyuni, a famous salt flat.
 <!--more-->

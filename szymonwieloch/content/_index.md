@@ -17,15 +17,13 @@ It may still not work properly!
 
 # Welcome!
 
-This version keeps your original message intact but smooths out the phrasing to sound completely natural to native English speakers. It also replaces "Unfortunately..." with a more positive framing.
+My name is Szymon. I am a software engineer, and this is my personal website. I created it to make it easy for potential employers to get in touch, and to share a bit about who I am and what I can do.
 
-    My name is Szymon. I am a software engineer, and this is my personal website. I created it to make it easy for potential employers to get in touch, and to share a bit about who I am and what I can do.
+Here, you’ll find my articles, travel photos, samples of my programming work, and my professional resume. Please note that only the most critical parts of the site have been translated into English. If you speak Polish (my native language), you can switch languages to access the full content (coming soon).
 
-    Here, you’ll find my articles, travel photos, samples of my programming work, and my professional resume. Please note that only the most critical parts of the site have been translated into English. If you speak Polish (my native language), you can switch languages to access the full content (coming soon).
+Enjoy your visit!
 
-    Enjoy your visit!
-
-    Szymon Wieloch
+Szymon Wieloch
 
 ![My signature](./signature.png)
 
@@ -40,7 +38,7 @@ This version keeps your original message intact but smooths out the phrasing to 
 
 My skills are concentrated around software development in the areas of finance, networking, and real-time or low-latency systems. I specialize in low-level programming languages such as C/C++, Rust, and Zig. In addition, I build microservices in Go and handle automation, testing, and analytics using Python.
 
-I am currently seeking remote, B2B contract roles, primarily with companies based in the US, UK, and Western Europe. I have a proven 5+ year track record of delivering high-quality software remotely, working effectively in primarily English-speaking, multicultural environments. I am fully flexible to work in both American and European time zones.
+I am currently seeking remote, B2B contract roles, primarily with companies based in the US, UK, and Western Europe. I have a proven 6+ year track record of delivering high-quality software remotely, working effectively in primarily English-speaking, multicultural environments. I am fully flexible to work in both American and European time zones.
 
 {{< button href="/posts/contact" target="_self" >}}
 Get in touch

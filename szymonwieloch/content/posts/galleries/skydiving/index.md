@@ -6,6 +6,6 @@ image = './featured.jpg'
 categories = ["Gallery"]
 +++
 
-Pictures from my parachute jump from 13 000 feet.
+Pictures from my parachute jump from 13,000 feet.
 
 <!--more-->

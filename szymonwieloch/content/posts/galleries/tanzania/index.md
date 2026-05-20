@@ -5,6 +5,6 @@ externalUrl = 'https://photos.app.goo.gl/SG43xaw1yv51xe5u7'
 image = './featured.jpg'
 categories = ["Gallery"]
 +++
-My climb to Kilimanjaro - the highest mountain in Africa. Plus few extra local trips in Tanzania.
+My climb to Kilimanjaro – the highest mountain in Africa. Plus a few extra local trips in Tanzania.
 
 <!--more-->

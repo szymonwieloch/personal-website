@@ -7,6 +7,8 @@ categories = ["Finance"]
 
 This article describes a simple investment strategy designed for people who do not have much experience with investing but would like to optimize their gain-to-risk ratio and prevent high losses during potential global crises (as observed around 2012).
 
+<!--more-->
+
 ## Introduction
 
 The purpose of this article is to create a simple but effective investment strategy using tools such as diversification and hedging. The strategy is intended for inexperienced investors with limited knowledge of financial markets. The profile of the investor is that of an average risk taker. Part of the money should be invested in stocks, while the other part should be invested in bonds.

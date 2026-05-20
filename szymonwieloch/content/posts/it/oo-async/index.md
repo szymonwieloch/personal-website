@@ -5,6 +5,9 @@ image = './featured.json'
 categories = ["IT"]
 +++
 
+How to easily implement asynchronous operations using a friendly object-oriented design?
+<!--more-->
+
 In one of my previous articles, I described the idea of asynchronous operations. Apart from many advantages, asynchronous operations do have some disadvantages as well – they are complicated. It is relatively complicated to implement a big, multiplatform application. Of course, it is possible to wrap native functions from your operating system with classes that will greatly simplify the use of this complicated approach, and they can also hide the inter-platform differences. Correct encapsulation and abstraction can result in a much more user-friendly interface.
 
 ## Basic Object-Oriented Framework

@@ -5,6 +5,10 @@ categories = ["Finance"]
 image = './featured.jpg'
 +++
 
+This article explores the concept, causes, and impacts of informal employee behaviors in the workplace, ultimately arguing that instead of strictly forbidding these natural tendencies, companies should strategically manage or leverage them to boost morale and long-term effectiveness.
+
+<!--more-->
+
 Informal Behavior: What Is It? For the purpose of this article, let’s define informal behaviors as all behaviors that are not a result of formal requirements stated by managers. Some of them may be related to professional purposes, while others may result from laziness or selfishness.
 
 Employees in a company with no informal behaviors at all would spend their time doing the exact tasks assigned to them by their superiors. The purpose of all tasks would be to bring the company closer to its main goals. On the other hand, employees in a company with a high level of informal behaviors would spend a significant part of their time talking, entertaining themselves, building social relations, drinking coffee, or gossiping. Some of their activities would be related to forming good relations within the company; for example, one employee’s task could be organizing a darts competition.

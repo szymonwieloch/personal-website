@@ -8,8 +8,4 @@ html {
   width: 11.25rem !important;
 }
 
-/* Make article thumbnail images square */
-article img.w-24 {
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
-}
+

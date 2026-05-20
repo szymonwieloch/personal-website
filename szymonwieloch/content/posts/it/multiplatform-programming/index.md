@@ -5,6 +5,9 @@ image = './featured.jpg'
 categories = ["IT"]
 +++
 
+Almost all modern language are by design multi-platform. However C++ is not...
+<!--more-->
+
 In the age of multiple available operating systems, a programmer often faces the problem of choosing the platform for their project. This choice is often not trivial. Sometimes certain functionality is available only on selected platforms, sometimes user preferences change and they migrate from one platform to another (for example Symbian was dropped because of huge interest in Android), and many applications are written for multiple platforms from the beginning. It is often best to write code that is platform-independent, and if that is not possible – to somehow manage the existence of multiple platforms in the simplest way.
 
 ### Two approaches to multiplatform programming

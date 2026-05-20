@@ -7,6 +7,8 @@ categories = ["IT"]
 
 More and more programmers are becoming interested in so-called agile project management methodologies. And there is a good reason for that — research done in the USA showed that projects using this approach get better ROI.
 
+<!--more-->
+
 The most popular of the agile methodologies is Scrum — an approach created by Ken Schwaber in 1995. Schwaber is also the co-founder of Scrum.org, an organization that teaches companies how to do agile and tries to standardize knowledge of Scrum. It was at Scrum.org where I had the pleasure to start my journey with agile methodologies and where I received my Professional Scrum Master certificate.
 
 Two main features of Scrum are iterative and incremental approaches towards code creation. Iterativity means that the work is done in cycles that usually take between 1 and 4 weeks. Each of them consists of:

@@ -6,5 +6,5 @@ image = './featured.jpg'
 categories = ["Gallery"]
 +++
 
-Pictures showing a graduation from the Master Of Business Administration, National Louis University-Wyższa Szkoła Biznesu, Nowy Sącz.
+Pictures showing a graduation from the Master of Business Administration, National Louis University-Wyższa Szkoła Biznesu, Nowy Sącz.
 <!--more-->
