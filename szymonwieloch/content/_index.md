@@ -17,9 +17,15 @@ It may still not work properly!
 
 # Welcome!
 
-My name is Szymon. I am a software programmer and this is my personal website. I created it to simplify contact with potential employers and as a way to tell people who I am and what I can do for them. You’ll find here many of my articles, galleries with pictures about some of my travels, samples of my programming work and job-related information. Unfortunately I was able to translate into English only the most important elements. If you speak Polish (which is my native language), you may want to switch into it to get more content. I wish you a pleasant reading.
+This version keeps your original message intact but smooths out the phrasing to sound completely natural to native English speakers. It also replaces "Unfortunately..." with a more positive framing.
 
-Szymon Wieloch
+    My name is Szymon. I am a software engineer, and this is my personal website. I created it to make it easy for potential employers to get in touch, and to share a bit about who I am and what I can do.
+
+    Here, you’ll find my articles, travel photos, samples of my programming work, and my professional resume. Please note that only the most critical parts of the site have been translated into English. If you speak Polish (my native language), you can switch languages to access the full content (coming soon).
+
+    Enjoy your visit!
+
+    Szymon Wieloch
 
 ![My signature](./signature.png)
 
@@ -32,9 +38,9 @@ Szymon Wieloch
 
 ![](./programmer.png)
 
-My skills are concentrated around software development in the areas of finance, networking and real-time or low-latency systems. I am an expert in low-level programming languages such as C/C++, Rust and Zig. In addition to that I also write microservices in Golang and automation/testing/analytics in Python.
+My skills are concentrated around software development in the areas of finance, networking, and real-time or low-latency systems. I specialize in low-level programming languages such as C/C++, Rust, and Zig. In addition, I build microservices in Go and handle automation, testing, and analytics using Python.
 
-I am currently only interested in remote job offers, mainly from USA, UK and other western countries, preferably as B2B contract. I have a proven record of more than 5 years of delivering high quality software remotely and many years of experience working in primary English-speaking, multicultural environment. I can work in both American and European time zones.
+I am currently seeking remote, B2B contract roles, primarily with companies based in the US, UK, and Western Europe. I have a proven 5+ year track record of delivering high-quality software remotely, working effectively in primarily English-speaking, multicultural environments. I am fully flexible to work in both American and European time zones.
 
 {{< button href="/posts/contact" target="_self" >}}
 Get in touch
@@ -56,7 +62,7 @@ More
 # Read My Articles
 ![](./reader.avif)
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Throughout my technical and MBA studies, as well as my ongoing self-learning, I have written numerous articles. Most of these focus on low-level programming, trading, and quantitative finance—areas that perfectly match my professional interests. While only a fraction of these pieces have been translated from my native Polish into English, I hope you find them insightful. Enjoy the read!
 
 {{< button href="/categories/it" target="_self" >}}
 IT
@@ -75,7 +81,7 @@ Finance
 
 ![](./collage-2015-10-24.png)
 
-Thanks to this site you can also learn more about me and my personal life. I have included here many articles that I wrote during my MBA studies, posted on multiple forums or wrote for some befriended blogs. You can also find here pictures from important events in my life.
+While most of this site concentrates on the professional side of my life, I thought you might also like to get to know me on a personal level. Since sports have always been a huge part of my life, I have shared a bunch of sports-related articles, as well as a number of galleries from some important events in my life. Enjoy!
 
 {{< button href="/categories/gallery" target="_self" >}}
 Galleries
