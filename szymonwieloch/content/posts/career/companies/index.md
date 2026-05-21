@@ -1,7 +1,7 @@
 +++
 date = '2026-05-18T20:42:01+02:00'
 title = 'My Companies And Projects'
-categories = ["Job"]
+categories = ["Career"]
 image = './featured.jpg'
 +++
 

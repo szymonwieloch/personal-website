@@ -1,7 +1,7 @@
 +++
 date = '2026-05-18T21:02:57+02:00'
 title = 'Certificates'
-categories = ["Job"]
+categories = ["Career"]
 image = './featured.jpg'
 +++
 
@@ -121,7 +121,7 @@ As a cornerstone of the modern digital era, Google seamlessly organizes the worl
 - [PRINCE2 Practitioner](https://www.axelos.com/certifications/prince2/prince2-practitioner) -
     Learn to tailor and apply the PRINCE2 methodology to real-world projects, demonstrating your ability to manage complexity and deliver results in any environment.
 
-## Other
+### Other
 
 - **IBM Project Management course** - 
     A 5-days long internal IBM training in project management.

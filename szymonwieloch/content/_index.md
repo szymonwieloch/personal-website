@@ -3,16 +3,6 @@
 
 <br/>
 <br/>
-
-{{< alert >}}
-**Warning!** Page under construction!
-It may still not work properly!
-{{< /alert >}}
-
-
-
-
-<br/>
 <br/>
 
 # Welcome!
@@ -29,8 +19,6 @@ Szymon Wieloch
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 # Hire Me as a Programmer
 
@@ -38,17 +26,17 @@ Szymon Wieloch
 
 My skills are concentrated around software development in the areas of finance, networking, and real-time or low-latency systems. I specialize in low-level programming languages such as C/C++, Rust, and Zig. In addition, I build microservices in Go and handle automation, testing, and analytics using Python.
 
-I am currently seeking remote, B2B contract roles, primarily with companies based in the US, UK, and Western Europe. I have a proven 6+ year track record of delivering high-quality software remotely, working effectively in primarily English-speaking, multicultural environments. I am fully flexible to work in both American and European time zones.
+I am currently seeking remote, B2B contract roles, primarily with companies based in the US, UK, and Western Europe. I have a proven 19+ year track record of delivering high-quality software, 6+ of that remotely, working effectively in primarily English-speaking, multicultural environments. I am fully flexible to work in both American and European time zones.
 
 {{< button href="/posts/contact" target="_self" >}}
 Get in touch
 {{< /button >}}
 
-{{< button href="/posts/job/resume/SzymonWielochCV2026.pdf" target="_self" >}}
+{{< button href="/posts/career/resume/SzymonWielochCV2026.pdf" target="_self" >}}
 Resume
 {{< /button >}}
 
-{{< button href="/categories/job" target="_self" >}}
+{{< button href="/categories/career" target="_self" >}}
 More
 {{< /button >}}
 

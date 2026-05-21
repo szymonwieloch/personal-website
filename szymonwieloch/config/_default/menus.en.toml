@@ -11,13 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-    name = "Home"
-    url = "/"
-    weight = 10
-
-[[main]]
-    name = "Job"
-    url = "/categories/job"
+    name = "Career"
+    url = "/categories/career"
     weight = 20
 
     [[main]]
