@@ -9,6 +9,8 @@ This article describes a simple investment strategy designed for people who do n
 
 <!--more-->
 
+{{< katex >}}
+
 ## Introduction
 
 The purpose of this article is to create a simple but effective investment strategy using tools such as diversification and hedging. The strategy is intended for inexperienced investors with limited knowledge of financial markets. The profile of the investor is that of an average risk taker. Part of the money should be invested in stocks, while the other part should be invested in bonds.
@@ -106,7 +108,8 @@ At the same time, the investment also had an attractive standard deviation — o
 
 It is also interesting to estimate the expected return outside periods of crisis. Assuming that exchange rates remain unchanged, the expected gain can be calculated as follows:
 
-EG = 28% \cdot 10.36% + 0% \cdot 3% + 72% \cdot 4% = 5.79%
+$$EG = 28\% \cdot 10.36\% + 0\% \cdot 3\% + 72\% \cdot 4\% = 5.79\%
+$$
 
 The final chart shows how combining three different types of investments reduces overall portfolio volatility.
 

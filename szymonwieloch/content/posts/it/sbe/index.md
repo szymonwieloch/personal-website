@@ -9,6 +9,8 @@ In high-throughput, low-latency computational ecosystems—such as high-frequenc
 
 <!--more-->
 
+{{< katex >}}
+
 **Simple Binary Encoding (SBE)** is a specialized, schema-driven binary protocol optimized for speed. Originally designed by the Financial Information eXchange (FIX) Trading Community for financial market data, SBE treats the CPU, cache lines, and system memory as top-tier constraints.
 
 ---
@@ -39,8 +41,8 @@ The following table contextualizes the operational differences between the three
 | Attribute | JSON | Protocol Buffers (Protobuf) | Simple Binary Encoding (SBE) |
 | --- | --- | --- | --- |
 | **Format Type** | Text (Human-readable) | Binary (Schema-packed) | Binary (Direct memory layout) |
-| **Typical Payload Size** | Large ($100\%$) | Smallest ($\sim 15\% - 30\%$) | Medium ($\sim 25\% - 45\%$) |
-| **Parsing Time Scale** | Microseconds ($\mu s$) | Nanoseconds ($ns$) | Sub-nanoseconds to low $ns$ |
+| **Typical Payload Size** | Large (\(100\%\)) | Smallest (\(\sim 15\% - 30\%\)) | Medium (\(\sim 25\% - 45\%\)) |
+| **Parsing Time Scale** | Microseconds (\(\mu s\)) | Nanoseconds (\(ns\)) | Sub-nanoseconds to low \(ns\) |
 | **CPU Overhead** | High (String tokenization) | Medium (Varint branch loops) | Minimal (Direct memory offsets) |
 | **Schema Requirement** | Optional | Strict (`.proto`) | Strict (`XML Schema`) |
 
